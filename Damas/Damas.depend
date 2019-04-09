@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1554785430 source:c:\users\luis\desktop\damas\main.cpp
+	<windows.h>
+	<unistd.h>
+	<iostream>
+	<math.h>
+	<GL/glut.h>
+	"include/Fichita.h"
+	"MinMax.h"
+
+976692172 c:\users\luis\downloads\quadtree\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1554779373 c:\users\luis\desktop\damas\include\fichita.h
+	<vector>
+
+1554779373 c:\users\luis\desktop\damas\include\minmax.h
+	<vector>
+	<utility>
+	<iostream>
+
+1554779373 source:c:\users\luis\desktop\damas\src\fichita.cpp
+	"Fichita.h"
+
+1554785997 source:c:\users\luis\desktop\damas\src\minmax.cpp
+	"MinMax.h"
+
+1554842246 source:f:\damas\main.cpp
+	<windows.h>
+	<unistd.h>
+	<iostream>
+	<math.h>
+	<GL/glut.h>
+	"include/Fichita.h"
+	"MinMax.h"
+
+1554779374 f:\damas\include\fichita.h
+	<vector>
+
+1554779374 f:\damas\include\minmax.h
+	<vector>
+	<utility>
+	<iostream>
+
+1554779374 source:f:\damas\src\fichita.cpp
+	"Fichita.h"
+
+1554785998 source:f:\damas\src\minmax.cpp
+	"MinMax.h"
+
